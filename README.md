@@ -1,3 +1,9 @@
+## Computer Science
+  - https://www.nand2tetris.org/ + https://eater.net/8bit/
+  - https://matt.might.net/articles/what-cs-majors-should-know/
+  - https://cpu.land/
+  - https://www.computerenhance.com/
+
 ## LLMs
   - https://developer.nvidia.com/blog/mastering-llm-techniques-inference-optimization/
   - https://applied-llms.org/
@@ -9,11 +15,11 @@
 ## Web
   - https://browser.engineering/
 
-## General Computer Science
-  - https://www.nand2tetris.org/ + https://eater.net/8bit/
-  - https://matt.might.net/articles/what-cs-majors-should-know/
-  - https://cpu.land/
-  - https://www.computerenhance.com/
+## Distributed Systems
+  - https://fly.io/dist-sys/
+  - https://github.com/aphyr/distsys-class
+
+---
 
 ## Python
   - https://tenthousandmeters.com/
