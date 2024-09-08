@@ -12,6 +12,9 @@
 ### Transformer Encoders
   - https://aniketrege.github.io/blog/2024/mrl/
 
+### Efficient ML
+  - https://efficientml.ai (https://hanlab.mit.edu/courses/2024-fall-65940)
+
 ### Web
   - https://browser.engineering/
 
