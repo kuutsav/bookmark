@@ -4,6 +4,9 @@
   - https://cpu.land/
   - https://www.computerenhance.com/
 
+### Databases
+  - https://planetscale.com/blog/btrees-and-database-indexes
+
 ### LLMs
   - https://developer.nvidia.com/blog/mastering-llm-techniques-inference-optimization/
   - https://applied-llms.org/
